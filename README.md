@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MasterJ-06
-- 👀 I’m an explorer, developer, tinkerer and so much more. I’m here to learn. I started out by learning Node.js. This lead me to learn HTML, Javascript, Python, C++ and C#. This is just a snippet of what I’m up to.
+- 👀 I’m an explorer, developer, tinkerer and so much more. I’m here to learn. I started out by learning Node.js. This led me to learn HTML, Javascript, Python, C++ and C#. This is just a snippet of what I’m up to.
 - 🌱 I’m currently learning C++
 <!--- - 📫 How to reach me ... --->
 
